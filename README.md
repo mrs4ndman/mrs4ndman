@@ -32,4 +32,4 @@
   <img src="https://media2.giphy.com/media/qBPfoLfWxabJACq7Dv/giphy.gif?cid=ecf05e4742btzqnriv93gmg3bicaesqtmrq87mrvroomlmvz&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200"/>
 </div>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mrs4ndman) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrs4ndman)]
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mrs4ndman) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrs4ndman&hide=HTML&exclude_repo=cheatsheets,rose-pine-site,certs,base,init.lua&layout=compact&show_icons=true&theme=dracula)
