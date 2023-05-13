@@ -18,7 +18,7 @@
   * Modern languages like Rust, Go and TypeScript
   * Backend development & concepts
 
-<a align="center" href="https://github.com/rose-pine/tmux" target="blank"><img src="https://img.shields.io/badge/tmux-Ros%C3%A9%20Pine%20-%23ebbcba"
+<a align="center" href="https://github.com/rose-pine/tmux" target="blank"><img src="https://img.shields.io/badge/tmux-Ros%C3%A9%20Pine%20-%23ebbcba"></a><br>
 
 
 <div id="badges" align="center">
