@@ -1,10 +1,10 @@
 
-### MrSandman
-
-Hi there! Welcome to the treacherous world of: my profile :)
+# MrSandman, also known as Jowi / Juan
 
 
-Available: Custom configs, some forked repos and other info about me / my projects
+### Hi there! Welcome to the treacherous world of: my profile :)
+
+- Available for everyone: Custom configs, some forked repos and other info about me / my projects
 
 - Currently learning: 
   * Bash scripting
@@ -14,9 +14,13 @@ Available: Custom configs, some forked repos and other info about me / my projec
   * Neovim
   
 - Planned:
-  * Computer science theory (data manipulation, algorithms, coding patterns)
-  * Languages like Rust, Go and TypeScript
+  * Computer science material (data manipulation, algorithms, coding patterns)
+  * Modern languages like Rust, Go and TypeScript
   * Backend development & concepts
+
+- Projects:
+    <a align="center" href="https://github.com/rose-pine/tmux" target="blank"><img src="https://img.shields.io/badge/tmux-Ros%C3%A9%20Pine%20-%23ebbcba"
+
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/juan-mananes-prieto">
