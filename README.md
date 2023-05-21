@@ -2,19 +2,19 @@
 # MrSandman, also known as Jowi / Juan
 
 
-### Hi there! Welcome to the treacherous world of: my profile :)
+### Hi there! Welcome to: my profile :)
 
 - Available for everyone: Custom configs, some forked repos and other info about me / my projects
 
 - Currently learning: 
+  * C language, algorithms, arrays, memory management, data structures (CS50X Harvard course)
   * Bash scripting
-  * Lua configuration & syntax
   * Intermediate Linux concepts
   * Git & GitHub usage and configuration
-  * Neovim
+  * Neovim Lua configuration & syntax
   
 - Planned:
-  * Computer science material (data manipulation, algorithms, coding patterns)
+  * Coding patterns and conventions
   * Modern languages like Rust, Go and TypeScript
   * Backend development & concepts
 
