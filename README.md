@@ -20,7 +20,7 @@
 
 - Projects:
 
-<a align="center" href="https://github.com/rose-pine/tmux" target="blank"><img src="https://img.shields.io/badge/tmux-Ros%C3%A9%20Pine%20-%23ebbcba"></a><br>
+<a align="center" href="https://github.com/rose-pine/tmux" target="blank"><img src="https://img.shields.io/badge/tmux-Ros%C3%A9%20Pine%20-%23ebbcba"></a>  <a align="center" href="https://github.com/rose-pine/btop" target="blank"><img src="https://img.shields.io/badge/btop-Ros%C3%A9%20Pine%20-%23ebbcba"></a><br>
 
 
 <div id="badges" align="center">
