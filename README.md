@@ -18,9 +18,7 @@
   * Modern languages like Rust, Go and TypeScript
   * Backend development & concepts
 
-- Projects:
-
-<a align="center" href="https://github.com/rose-pine/tmux" target="blank"><img src="https://img.shields.io/badge/tmux-Ros%C3%A9%20Pine%20-%23ebbcba"></a>  <a align="center" href="https://github.com/rose-pine/btop" target="blank"><img src="https://img.shields.io/badge/btop-Ros%C3%A9%20Pine%20-%23ebbcba"></a><br>
+- Projects: <a align="center" href="https://github.com/rose-pine/tmux" target="blank"><img src="https://img.shields.io/badge/tmux-Ros%C3%A9%20Pine%20-%23ebbcba"></a>  <a align="center" href="https://github.com/rose-pine/btop" target="blank"><img src="https://img.shields.io/badge/btop-Ros%C3%A9%20Pine%20-%23ebbcba"></a><br>
 
 
 <div id="badges" align="center">
@@ -31,5 +29,6 @@
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/qBPfoLfWxabJACq7Dv/giphy.gif?cid=ecf05e4742btzqnriv93gmg3bicaesqtmrq87mrvroomlmvz&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200"/>
 </div>
+<br>
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mrs4ndman&layout=compact&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrs4ndman&hide=HTML&exclude_repo=cheatsheets,rose-pine-site,certs,base,init.lua&layout=compact&show_icons=true&theme=dracula)
