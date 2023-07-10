@@ -6,16 +6,16 @@
 
 #### What you can find: Custom configs, some forked repos and other info about me / my projects
 
-- ### Currently learning: 
-  * CS50X Harvard course
-  * Intermediate Linux concepts
+- ### Currently learning:
+
+  * Intermediate Linux concepts & theory
   * Git & GitHub usage and configuration
   * Neovim and VS Code configuration
    <h5>
      <p>
      <details>
       <summary>
-       <kbd><h3>Click to see</h3></kbd>
+       <kbd><h3>Languages I'm learning</h3></kbd>
       </summary>
       <br>
       <a href="https://en.wikipedia.org/wiki/Lua_(programming_language)"><img src="https://skillicons.dev/icons?i=lua" /></a>
@@ -62,6 +62,8 @@ Dev tools<br>
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a>
   <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" /></a>
   <a href="https://obsidian.md/"><img height=48px src="https://obsidian.md/images/obsidian-logo-gradient.svg" /></a>
+  <a href="https://pop.system76.com/"><img height=48px src="https://img.icons8.com/fluency/48/pop-os-logo.png" /></a>
+
 
 
 OSes<br>
