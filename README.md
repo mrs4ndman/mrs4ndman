@@ -3,7 +3,7 @@
 
 
 ## Hi there! Welcome to: my profile :)
-
+### Recently graduated from a Microcomputer systems and networks degree 🏆 :) (my first step into tech)
 #### What you can find: Custom configs, some forked repos and other info about me / my projects
 
 - ### Currently learning:
