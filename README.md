@@ -1,7 +1,4 @@
 
-# Juan Mañanes Prieto - MrSandman
-
-
 ## Hi there! Welcome to: my profile :) || Buenas! Bienvenido a: mi perfil :)
 <!-- ### Recently graduated from a Microcomputer systems and networks degree 🏆 :) (my first step into tech) -->
 #### What you can find: Custom configs, some forked repos and other info about me / my projects || Qué puedes encontrar por aquí: Algunos de mis proyectos, repositorios random y datos / cosas sobre mí
