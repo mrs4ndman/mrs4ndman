@@ -7,7 +7,8 @@
 <ul>
   <li> My custom dev environment configs || Mis configuraciones de entornos de desarrollo </li>
   <li> Some forked repos || Algún que otro repositorio forkeado </li>
-  <li> repositorios random y datos / cosas sobre mí and other info about me / my projects </li>
+  <li> Random repos and info about me || Repositorios diversos y cosas sobre mí </li>
+  <li> A few serious projects ;) || Algún que otro proyecto serio ;) </li>
 </ol>
 </details>
 
