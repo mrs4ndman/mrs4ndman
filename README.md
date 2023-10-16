@@ -54,18 +54,17 @@
   <a href="https://www.w3.org/TR/CSS/#css"><img src="https://skillicons.dev/icons?i=css" /></a>
   <a href="https://en.wikipedia.org/wiki/Lua_(programming_language)"><img src="https://skillicons.dev/icons?i=lua" /></a>
   <br>
-  <br>
 
 - Dev tools / Herramientas de desarrollo<br>
 
   <a href="https://neovim.io/"> <img src="https://skillicons.dev/icons?i=neovim"></a>
   <a href="https://tmux.github.io"> <img src="https://avatars.githubusercontent.com/u/12054114?s=48&v=4"></a>
-  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /></a>
-<a href="https://obsidian.md/"><img height=48px src="https://obsidian.md/images/obsidian-logo-gradient.svg" /></a>
-          <!-- <a href="https://alacritty.org/"><img height=48px src="https://github.com/mrs4ndman/mrs4ndman/assets/121260905/55a907c4-e967-42ec-94e1-36941924c2c8" /></a> -->
+  <a href="https://i3wm.org/"> <img src="https://kuttler.eu/media/images/i3-logo.original.png" width=48 ></a>
+  <a href="https://obsidian.md/"><img height=48px src="https://obsidian.md/images/obsidian-logo-gradient.svg" /></a>
   <br>
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a>
   <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /></a>
   <a href="https://pop.system76.com/"><img height=48px src="https://img.icons8.com/fluency/48/pop-os-logo.png" /></a>
 
 
