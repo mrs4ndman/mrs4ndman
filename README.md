@@ -17,7 +17,7 @@
   * Linux worflows and daily-driving || Flujos de trabajo y uso diario de Linux
   * GitHub usage and VCS || Uso de GitHub y otros sistemas de control de versiones
   * Neovim configuration and development environments || Configuración de Neovim y diversos entornos de desarrollo
-  * Java programming and the XML markup language
+  * Java programming and SQL Queries || Programación en Java y SQL
 
 ---
 
@@ -46,30 +46,29 @@
 <details>
   <summary><strong> View Skills || Ver skills </strong></summary>
 
-
-
 - Languages and frameworks || Lenguajes y frameworks de programación<br>
 
+  <a href="https://www.java.com/en/"><img src="https://skillicons.dev/icons?i=java" /></a>
+  <a href="https://en.wikipedia.org/wiki/Lua_(programming_language)"><img src="https://skillicons.dev/icons?i=lua" /></a>
   <a href="https://www.gnu.org/software/bash/">  <img src="https://skillicons.dev/icons?i=bash"></a>
   <a href="https://html.spec.whatwg.org/"><img src="https://skillicons.dev/icons?i=html" /></a>
   <a href="https://www.w3.org/TR/CSS/#css"><img src="https://skillicons.dev/icons?i=css" /></a>
-  <a href="https://en.wikipedia.org/wiki/Lua_(programming_language)"><img src="https://skillicons.dev/icons?i=lua" /></a>
   <br>
 
-- Dev tools / Herramientas de desarrollo<br>
+- Dev tools || Herramientas de desarrollo<br>
 
   <a href="https://neovim.io/"> <img src="https://skillicons.dev/icons?i=neovim"></a>
   <a href="https://tmux.github.io"> <img src="https://avatars.githubusercontent.com/u/12054114?s=48&v=4"></a>
-  <a href="https://i3wm.org/"> <img src="https://kuttler.eu/media/images/i3-logo.original.png" width=48 ></a>
-  <a href="https://obsidian.md/"><img height=48px src="https://obsidian.md/images/obsidian-logo-gradient.svg" /></a>
-  <br>
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a>
   <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <br>
   <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /></a>
+  <a href="https://obsidian.md/"><img height=48px src="https://obsidian.md/images/obsidian-logo-gradient.svg" /></a>
+  <a href="https://i3wm.org/"> <img src="https://kuttler.eu/media/images/i3-logo.original.png" width=48 ></a>
   <a href="https://pop.system76.com/"><img height=48px src="https://img.icons8.com/fluency/48/pop-os-logo.png" /></a>
 
 
-- OSes / Sistemas operativos<br>
+- OSes || Sistemas operativos<br>
 
   <a href="https://linux.org/"><img src="https://skillicons.dev/icons?i=linux" /></a>
   <a href="https://bsd.org/"><img src="https://skillicons.dev/icons?i=bsd" /></a> 
@@ -97,19 +96,4 @@
   </a> &nbsp;
   <a href="https://www.twitter.com/mrs4ndman_" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a>
 </div>
-
-
-<!-- <h3 align="center">  -->
-<!--  <p> -->
-<!--   <details> -->
-<!--    <summary> -->
-<!--     <kbd><h3>GitHub Stats</h3></kbd> -->
-<!--    </summary> -->
-<!--    <br> -->
-<!---->
-<!--   ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mrs4ndman&layout=compact&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrs4ndman&hide=HTML&exclude_repo=cheatsheets,rose-pine-site,certs,base,init.lua&layout=compact&show_icons=true&theme=dracula) -->
-<!--   </details> -->
-<!--  </p> -->
-<!-- </h3> -->
-
 
