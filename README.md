@@ -5,7 +5,7 @@
   What you can find around here || Lo que puedes encontrar por aquí ...
  </summary>
 <ul>
-  <li> My custom dev environment configs || Mis configuraciones de entornos de desarrollo </li>
+  <li> My custom dev-environment configs || Mis configuraciones de entornos de desarrollo </li>
   <li> Some forked repos || Algún que otro repositorio forkeado </li>
   <li> Random repos and info about me || Repositorios diversos y cosas sobre mí </li>
   <li> A few serious projects ;) || Algún que otro proyecto serio ;) </li>
@@ -14,7 +14,7 @@
 
 ### Currently learning || Actualmente aprendiendo
 
-  * Linux worflows and daily-driving || Flujos de trabajo y uso diario de Linux
+  * Linux workflows and daily usage || Flujos de trabajo y uso diario de Linux
   * GitHub usage and VCS || Uso de GitHub y otros sistemas de control de versiones
   * Neovim configuration and development environments || Configuración de Neovim y diversos entornos de desarrollo
   * Java programming and SQL Queries || Programación en Java y SQL
@@ -68,7 +68,7 @@
   <a href="https://pop.system76.com/"><img height=48px src="https://img.icons8.com/fluency/48/pop-os-logo.png" /></a>
 
 
-- OSes || Sistemas operativos<br>
+- Operating systems || Sistemas operativos<br>
 
   <a href="https://linux.org/"><img src="https://skillicons.dev/icons?i=linux" /></a>
   <a href="https://bsd.org/"><img src="https://skillicons.dev/icons?i=bsd" /></a> 
