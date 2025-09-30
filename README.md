@@ -64,7 +64,7 @@
   <br>
   <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /></a>
   <a href="https://obsidian.md/"><img height=48px src="https://obsidian.md/images/obsidian-logo-gradient.svg" /></a>
-  <a href="https://i3wm.org/"> <img src="https://kuttler.eu/media/images/i3-logo.original.png" width=48 ></a>
+  <a href="https://i3wm.org/"> <img src="https://www.pikpng.com/pngl/b/501-5018854_i3-window-manager-logo-i3wm-logo-clipart.png" width=48 ></a>
   <a href="https://pop.system76.com/"><img height=48px src="https://img.icons8.com/fluency/48/pop-os-logo.png" /></a>
 
 
@@ -79,7 +79,7 @@
 
 ---
 
-### Projects || Proyectos
+### Projects I've worked on || Proyectos en los que he trabajado
 <p align="flex">
  <a align="center" href="https://github.com/rose-pine/tmux" target="blank"><img src="https://img.shields.io/badge/tmux-Ros%C3%A9%20Pine%20-%23ebbcba"></a>  <a align="center" href="https://github.com/rose-pine/btop" target="blank"><img src="https://img.shields.io/badge/btop-Ros%C3%A9%20Pine%20-%23ebbcba"></a>
  <a align="center" href="https://mrs4ndman.dev" target="blank"><img src="https://img.shields.io/badge/My%20website-Mi%20p%C3%A1gina%20web-blue"></a>
