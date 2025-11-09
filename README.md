@@ -1,35 +1,33 @@
 ## Hi there! Welcome to: my profile ;) || Buenas! Bienvenido a: mi perfil ;)
 
-<details>
-  <summary>
-    What you can find around here || Lo que puedes encontrar por aquí ...
-  </summary>
-  <ul>
-    <li> My tools' configurations || Las configuraciones de las herramientas que uso </li>
-    <li> Some forked repos || Algún que otro repositorio forkeado </li>
-    <li> Random repos and info about me || Repositorios diversos y cosas sobre mí </li>
-    <li> And a few serious projects ;) || Y algún que otro proyecto serio ;) </li>
-    </ul>
-</details>
+### What you can find around here || Lo que puedes encontrar por aquí ...
+<ul>
+  <li> My tools' configurations || Las configuraciones de las herramientas que uso </li>
+  <li> Some forked repos || Algún que otro repositorio forkeado </li>
+  <li> Random repos and info about me || Repositorios diversos y cosas sobre mí </li>
+  <li> And a few serious projects ;) || Y algún que otro proyecto serio ;) </li>
+</ul>
+
+---
 
 ### Currently learning || Actualmente aprendiendo
 
 * Linux workflows and daily usage || Flujos de trabajo y uso diario de Linux
 * GitHub Actions and GitFlow methodology || Uso de GitHub Actions y la metodología GitFlow
 * Functional programming applied to Java || Programación funcional aplicada a Java
+* Learning Python from scratch || Aprendiendo Python desde cero
 
 ---
 
 <p>
 <details>
   <summary>
-    <strong>Languages and technologies I am curious about || Lenguajes y tecnologías en los que estoy interesado</strong>
+    <strong>Technologies I am curious about || Tecnologías por las que tengo interés</strong>
   </summary>
   <br>
   <a href="https://www.iso.org/standard/74528.html"><img src="https://skillicons.dev/icons?i=c" /></a>
   <a href="https://www.rust-lang.org/"><img src="https://skillicons.dev/icons?i=rust" /></a> 
   <a href="https://javascript.com"><img src="https://skillicons.dev/icons?i=js" /></a>
-
 </details>
 </p>
 
@@ -42,6 +40,7 @@
 
   <a href="https://www.java.com/en/"><img src="https://skillicons.dev/icons?i=java" /></a>
   <a href="https://spring.io/projects/spring-boot"><img src="https://skillicons.dev/icons?i=spring" /></a>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" /></a>
   <!-- https://skillicons.dev/icons?i=spring -->
   <a href="https://en.wikipedia.org/wiki/Lua_(programming_language)"><img src="https://skillicons.dev/icons?i=lua" /></a>
   <a href="https://www.gnu.org/software/bash/">  <img src="https://skillicons.dev/icons?i=bash"></a>
@@ -85,9 +84,13 @@
 ### More info and links || Más información y links
 
 <div id="badges" align="left">
+  <a href="https://www.codewars.com/users/juan.mp">
+    <img src="https://www.codewars.com/users/juan.mp/badges/small" alt="Codewars Badge"/>
+  </a>
+  <br>
   <a href="https://www.linkedin.com/in/juan-mananes-prieto">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a> &nbsp;
-  <a href="https://www.twitter.com/mrs4ndman_" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a>
+  </a> &nbsp; &nbsp;
+  <a href="https://www.twitter.com/mrs4ndman_" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> &nbsp;
 </div>
 
