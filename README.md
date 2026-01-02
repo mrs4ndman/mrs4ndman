@@ -63,7 +63,7 @@
     <a href="https://docker.com/"><img src="https://skillicons.dev/icons?i=docker" /></a> &nbsp;
     &nbsp; &nbsp; &nbsp;
     <a href="https://obsidian.md/"><img height=48px src="https://obsidian.md/images/obsidian-logo-gradient.svg" /></a> &nbsp;
-    <a href="https://i3wm.org/"> <img src="https://www.pikpng.com/pngl/b/501-5018854_i3-window-manager-logo-i3wm-logo-clipart.png" width=48 ></a> &nbsp;
+    <a href="https://i3wm.org/"> <img src="https://h4ckseed.wordpress.com/wp-content/uploads/2021/05/1200px-i3_window_manager_logo.svg_.png" width=48 ></a> &nbsp;
     <a href="https://pop.system76.com/"><img height=48px src="https://img.icons8.com/fluency/48/pop-os-logo.png" /></a> &nbsp;
 
 
@@ -94,7 +94,6 @@
   <a href="https://www.codewars.com/users/juan.mp">
     <img src="https://www.codewars.com/users/juan.mp/badges/small" alt="Codewars Badge"/>
   </a>
-  <br>
   <a href="https://www.linkedin.com/in/juan-mananes-prieto">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> &nbsp; &nbsp;
