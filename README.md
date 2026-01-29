@@ -78,10 +78,12 @@
 
 ---
 
-### Projects I've worked on | Proyectos en los que he trabajado
+### Projects I'm working on | Proyectos en los que estoy trabajando
 <p align="flex">
   <a align="center" href="https://github.com/rose-pine/tmux" target="blank"><img src="https://img.shields.io/badge/tmux-Ros%C3%A9%20Pine%20-%23ebbcba"></a> 
   <a align="center" href="https://github.com/rose-pine/btop" target="blank"><img src="https://img.shields.io/badge/btop-Ros%C3%A9%20Pine%20-%23ebbcba"></a>
+  <br>
+  <a align="center" href="https://github.com/mrs4ndman/presto" target="blank"><img src="https://img.shields.io/badge/presto-TUI%20music%20player%20-blue"></a>
   <a align="center" href="https://mrs4ndman.dev" target="blank"><img src="https://img.shields.io/badge/mrs4ndman.dev-My%20website%20-blue"></a>
   <br>
 </p>
