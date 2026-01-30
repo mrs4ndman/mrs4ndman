@@ -16,6 +16,7 @@
 * GitHub Actions and GitFlow methodology | Uso de GitHub Actions y la metodología GitFlow
 * Functional programming applied to Java | Programación funcional aplicada a Java
 * Learning Python from scratch | Aprendiendo Python desde cero
+* Building some cool projects in Rust | Creando proyectos entretenidos en Rust
 
 ---
 
@@ -98,7 +99,10 @@
   </a>
   <a href="https://www.linkedin.com/in/juan-mananes-prieto">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a> &nbsp; &nbsp;
-  <a href="https://www.twitter.com/mrs4ndman_" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> &nbsp;
+  </a>
+  <a href="https://www.twitter.com/mrs4ndman_" target="_blank" rel="noreferrer"> 
+    <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> 
+    </picture> 
+  </a>
 </div>
 
