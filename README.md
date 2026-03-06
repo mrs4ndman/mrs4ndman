@@ -4,9 +4,8 @@
 
 -  My tools' configurations | Las configuraciones de las herramientas que uso
 -  Some forked repos | Algún que otro repositorio forkeado
--  And a few serious projects ;) | Y algún que otro proyecto serio ;)
 -  Random repos and info about me | Repositorios diversos y cosas sobre mí
-
+-  And a few serious projects ;) | Y algún que otro proyecto serio ;)
 
 ---
 
@@ -28,8 +27,9 @@
   <br>
   <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" /></a> &nbsp;
   <a href="https://www.rust-lang.org/"><img src="https://skillicons.dev/icons?i=rust" /></a>  &nbsp;
-  <a href="https://javascript.com"><img src="https://skillicons.dev/icons?i=js" /></a> &nbsp;
-  <a href="https://www.iso.org/standard/74528.html"><img src="https://skillicons.dev/icons?i=c" /></a> &nbsp;
+  <a href="https://www.raspberrypi.com/products/raspberry-pi-5/"><img src="https://skillicons.dev/icons?i=raspberrypi" /></a> &nbsp;
+  <!-- <a href="https://javascript.com"><img src="https://skillicons.dev/icons?i=js" /></a> &nbsp; -->
+  <!-- <a href="https://www.iso.org/standard/74528.html"><img src="https://skillicons.dev/icons?i=c" /></a> &nbsp; -->
 </details>
 </p>
 
@@ -49,7 +49,7 @@
     <a href="https://www.w3.org/TR/CSS/#css"><img src="https://skillicons.dev/icons?i=css" /></a> &nbsp;
     <br>
 
-  - Dev tools | Herramientas de desarrollo<br>
+  - Dev-tools | Herramientas de desarrollo<br>
 
     <a href="https://tmux.github.io"> <img src="https://avatars.githubusercontent.com/u/12054114?s=48&v=4"></a> &nbsp;
     <a href="https://neovim.io/"> <img src="https://skillicons.dev/icons?i=neovim"></a> &nbsp;
@@ -58,6 +58,7 @@
     <a href="https://eclipseide.org/"> <img src="https://skillicons.dev/icons?i=eclipse"></a> &nbsp;
     <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /></a> &nbsp;
     <a href="https://www.jetbrains.com/idea/"><img src="https://skillicons.dev/icons?i=idea" /></a> &nbsp;
+    <a href="https://eclipseide.org/"><img src="https://skillicons.dev/icons?i=eclipse" /></a> &nbsp;
     <br>
     <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a> &nbsp;
     <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" /></a> &nbsp;
@@ -66,7 +67,6 @@
     <a href="https://obsidian.md/"><img height=48px src="https://obsidian.md/images/obsidian-logo-gradient.svg" /></a> &nbsp;
     <a href="https://i3wm.org/"> <img src="https://h4ckseed.wordpress.com/wp-content/uploads/2021/05/1200px-i3_window_manager_logo.svg_.png" width=48 ></a> &nbsp;
     <a href="https://pop.system76.com/"><img height=48px src="https://img.icons8.com/fluency/48/pop-os-logo.png" /></a> &nbsp;
-
 
   - Operating systems | Sistemas operativos<br>
 
@@ -84,8 +84,11 @@
   <a align="center" href="https://github.com/rose-pine/tmux" target="blank"><img src="https://img.shields.io/badge/tmux-Ros%C3%A9%20Pine%20-%23ebbcba"></a> 
   <a align="center" href="https://github.com/rose-pine/btop" target="blank"><img src="https://img.shields.io/badge/btop-Ros%C3%A9%20Pine%20-%23ebbcba"></a>
   <br>
+  <a align="center" href="https://mrs4ndman.dev" target="blank"><img src="https://img.shields.io/badge/mrs4ndman.dev-My%20very%20simple%20website%20-blue"></a>
   <a align="center" href="https://github.com/mrs4ndman/presto" target="blank"><img src="https://img.shields.io/badge/presto-TUI%20music%20player%20-blue"></a>
-  <a align="center" href="https://mrs4ndman.dev" target="blank"><img src="https://img.shields.io/badge/mrs4ndman.dev-My%20website%20-blue"></a>
+  <br>
+  <a align="center" href="https://github.com/mrs4ndman/trackl" target="blank"><img src="https://img.shields.io/badge/trackl-Music%20directory%20analyzer%20-blue"></a>
+  <a align="center" href="https://github.com/mrs4ndman/wivir" target="blank"><img src="https://img.shields.io/badge/wivir-TUI%20WiFi%20manager%20-blue"></a>
   <br>
 </p>
 
@@ -97,9 +100,11 @@
   <a href="https://www.codewars.com/users/juan.mp">
     <img src="https://www.codewars.com/users/juan.mp/badges/small" alt="Codewars Badge"/>
   </a>
+  <br>
   <a href="https://www.linkedin.com/in/juan-mananes-prieto">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  &nbsp;
   <a href="https://www.twitter.com/mrs4ndman_" target="_blank" rel="noreferrer"> 
     <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> 
     </picture> 
